@@ -8,11 +8,6 @@
 - Interested in technology and software development  
 - Exploring platforms like GitHub and Kaggle  
 
-## Goals
-- Improve my coding skills  
-- Work on real-world projects  
-- Build a strong professional profile  
-
 ## Skills (Beginner Level)
 - Basic Programming  
 - Problem Solving  
